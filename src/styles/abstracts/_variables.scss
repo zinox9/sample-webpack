@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Armata&family=Nunito&family=Raleway:ital,wght@0,400;0,500;0,600;1,300&display=swap");
+
+// Colors
+$black: #000000;
+$white: #ffffff;
+
+$red: #950000;
+$light-red: #fffafa;
+
+$primary-color: $black;
+$secondary-color: $red;
+$background-color: $light-red;
+
+// Fonts
+$raleway: "Raleway", sans-serif;
+$nunito: "Nunito", sans-serif;
+$armata: "Armata", sans-serif;
+
+$primary-font: $raleway;
+$secondary-font: $nunito;
+
+// Spacing
+$mobile-space: 10px;
+$desktop-space: 35px;
